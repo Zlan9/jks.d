@@ -1,0 +1,14 @@
+
+{
+  "name": "jenkins-npm-demo",
+  "version": "1.0.0",
+  "description": "Node.js application with npm and Jenkins CI/CD",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node --test test.js"
+  },
+  "dependencies": {
+    "axios": "^1.13.2"
+  }
+}
